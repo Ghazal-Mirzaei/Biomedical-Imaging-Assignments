@@ -21,4 +21,4 @@ implemented in Python using OpenCV, NumPy, and scikit-image.
 
 ## Author
 Ghazal Mirzaei — Biomedical Engineering Master's Student  
-HS Anhalt — Germany
+Anhalt University of Applied Science — Germany
