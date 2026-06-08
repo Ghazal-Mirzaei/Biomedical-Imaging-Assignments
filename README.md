@@ -1,6 +1,6 @@
-# Biomedical Image Processing — Assignments
+# Biomedical Image Processing — Exercises
 
-Master's level course assignments in biomedical image processing,
+Introductory exercises in biomedical image processing,
 implemented in Python using OpenCV, NumPy, and scikit-image.
 
 ## Contents
